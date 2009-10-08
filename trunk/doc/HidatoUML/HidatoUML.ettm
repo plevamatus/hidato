@@ -27,11 +27,11 @@
 	<!ATTLIST Irresolvable 
 		   id CDATA #IMPLIED >
 ]--><TypeManagement projectID="DCE.CE8B33B6-4743-5906-3C34-34E6EA7651B0">
-	<Locations nextID="0">
-	</Locations>
+	<Locations nextID="1">
+	<Location locID="T.0" href="./HidatoUML.etup"/></Locations>
 
    <Types>
-   </Types>
+   <Type id="DCE.31B7626E-2721-C007-0034-2191B585A5AD" location="T.0" name="Unnamed"/></Types>
 
 	<IrresolvableTypes>
 	</IrresolvableTypes>
